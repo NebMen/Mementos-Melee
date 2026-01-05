@@ -2,7 +2,7 @@
 
 ![Project Status](https://img.shields.io/badge/Status-Alpha-orange) ![Language](https://img.shields.io/badge/Language-Python_3.10-blue) ![Engine](https://img.shields.io/badge/Engine-PyGame-green)
 
-> **A Python-based 2D Fighting Game Engine featuring "Cognitive Crisis" — a unique trivia-based comeback mechanic.**
+> **A Python-based 2D Fighting Game Engine featuring "Cognitive Crisis" - a unique trivia-based comeback mechanic.**
 
 ## 📖 About The Project
 **Mementos Melee** is a fighting game built entirely from scratch using Python and PyGame. Unlike standard fighters, it integrates a twist: the **Cognitive Crisis** system.
