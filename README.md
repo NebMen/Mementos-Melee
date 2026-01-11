@@ -10,12 +10,10 @@
 When a player reaches critical health (<20%), the combat engine pauses the physics simulation and triggers a high-stakes trivia event. Answering correctly heals the player (Risk/Reward), blending reflex-based gameplay with knowledge retrieval.
 
 # [Gameplay Screenshots]
-<img width="993" height="497" alt="image" src="https://github.com/user-attachments/assets/567a0200-ef07-4c8c-96ca-fa8e6d234277" />
-
+<img width="993" height="497" alt="image" src="https://github.com/user-attachments/assets/567a0200-ef07-4c8c-96ca-fa8e6d234277" /> <br>
+<br>
 <img width="982" height="494" alt="image" src="https://github.com/user-attachments/assets/c7268f0b-cd97-4733-965a-6b328ce2d28f" />
-
-
-*(Current Alpha build showing the mechanics-first "graybox" phase with hitbox visualization and UI)*
+(*Current Alpha build showing the mechanics-first "graybox" phase with hitbox visualization and UI.*)
 
 ## ✨ Key Features
 * **Custom State Machine:** Robust architecture handling distinct game states (`MENU`, `FIGHT`, `PAUSE`, `TRIVIA`) without blocking the game loop.
